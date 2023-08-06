@@ -1,19 +1,37 @@
 {
-    "posts": [
-      {
-        "id": 1,
-        "title": "hello"
-      }
-    ],
-    "profile": {
-      "name": "typicode"
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "tags": [
+    {
+      "id": 1,
+      "name": "information",
+      "description": "Source of Knowledge",
+      "priority": 2
     },
-    "tags": [
-        {
-            "id": 1,
-            "name": "information",
-            "description": "Source of Knowledge",
-            "priority": 1
-        }
-    ]
+    {
+      "id": 2,
+      "name": "knowledge",
+      "description": "Derived from Information",
+      "priority": 1
+    },
+    {
+      "id": 3,
+      "name": "Ideals",
+      "description": "Truth seeking concepts",
+      "priority": 3
+    },
+    {
+      "id": 4,
+      "name": "Context",
+      "description": "Knowledge Assistants",
+      "priority": 4
+    }
+  ]
 }
