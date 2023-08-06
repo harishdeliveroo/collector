@@ -33,5 +33,31 @@
       "description": "Knowledge Assistants",
       "priority": 4
     }
+  ],
+  "articles": [
+    {
+      "id": 1,
+      "tags": [1],
+      "name": "Information",
+      "description": "Source of Knowledge"
+    },
+    {
+      "id": 2,
+      "tags": [2],
+      "name": "Knowledge",
+      "description": "Derived from Information"
+    },
+    {
+      "id": 3,
+      "tags": [3],
+      "name": "Ideals",
+      "description": "Truth seeking concepts"
+    },
+    {
+      "id": 4,
+      "tags": [4],
+      "name": "Context",
+      "description": "Knowledge Assistants"
+    }
   ]
 }
