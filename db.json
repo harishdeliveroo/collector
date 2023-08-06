@@ -37,27 +37,39 @@
   "articles": [
     {
       "id": 1,
-      "tags": [1],
-      "name": "Information",
-      "description": "Source of Knowledge"
+      "tags": [
+        1
+      ],
+      "title": "Happiness: A day just so special. A happy one.",
+      "url": "https://apartinme.wixsite.com/xenon/post/happiness-a-day-just-so-special-a-happy-one",
+      "image_url": "https://static.wixstatic.com/media/47de50_e4ae2c567fdf430cb99af47d0346eeb9~mv2.jpg/v1/fill/w_1480,h_832,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/47de50_e4ae2c567fdf430cb99af47d0346eeb9~mv2.jpg"
     },
     {
       "id": 2,
-      "tags": [2],
-      "name": "Knowledge",
-      "description": "Derived from Information"
+      "tags": [
+        1
+      ],
+      "title": "Happiness: A day just so special. A happy one.",
+      "url": "https://apartinme.wixsite.com/xenon/post/happiness-a-day-just-so-special-a-happy-one",
+      "image_url": "https://static.wixstatic.com/media/47de50_e4ae2c567fdf430cb99af47d0346eeb9~mv2.jpg/v1/fill/w_1480,h_832,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/47de50_e4ae2c567fdf430cb99af47d0346eeb9~mv2.jpg"
     },
     {
       "id": 3,
-      "tags": [3],
-      "name": "Ideals",
-      "description": "Truth seeking concepts"
+      "tags": [
+        1
+      ],
+      "title": "Happiness: A day just so special. A happy one.",
+      "url": "https://apartinme.wixsite.com/xenon/post/happiness-a-day-just-so-special-a-happy-one",
+      "image_url": "https://static.wixstatic.com/media/47de50_e4ae2c567fdf430cb99af47d0346eeb9~mv2.jpg/v1/fill/w_1480,h_832,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/47de50_e4ae2c567fdf430cb99af47d0346eeb9~mv2.jpg"
     },
     {
       "id": 4,
-      "tags": [4],
-      "name": "Context",
-      "description": "Knowledge Assistants"
+      "tags": [
+        1
+      ],
+      "title": "Happiness: A day just so special. A happy one.",
+      "url": "https://apartinme.wixsite.com/xenon/post/happiness-a-day-just-so-special-a-happy-one",
+      "image_url": "https://static.wixstatic.com/media/47de50_e4ae2c567fdf430cb99af47d0346eeb9~mv2.jpg/v1/fill/w_1480,h_832,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/47de50_e4ae2c567fdf430cb99af47d0346eeb9~mv2.jpg"
     }
   ]
 }
