@@ -11,13 +11,13 @@
   "tags": [
     {
       "id": 1,
-      "name": "information",
+      "name": "Information",
       "description": "Source of Knowledge",
       "priority": 2
     },
     {
       "id": 2,
-      "name": "knowledge",
+      "name": "Knowledge",
       "description": "Derived from Information",
       "priority": 1
     },
