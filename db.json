@@ -12,6 +12,7 @@
         {
             "id": 1,
             "name": "information",
+            "description": "Source of Knowledge",
             "priority": 1
         }
     ]
